@@ -241,6 +241,19 @@ hr {
   padding-left: 26px;
 }
 
+.experience-list {
+  margin: 0;
+  padding-left: 26px;
+}
+
+.experience-list li {
+  margin-bottom: 24px;
+}
+
+.experience-list p {
+  margin-bottom: 0;
+}
+
 .project-item {
   margin: 0 0 24px;
 }
